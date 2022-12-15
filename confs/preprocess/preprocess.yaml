@@ -1,0 +1,22 @@
+model: cardiffnlp/twitter-roberta-base-sentiment-latest
+data: skg/toxigen-data
+paths:
+  new: /dataset/new_dataset.jsonl
+  exp: /dataset/exp_dataset.jsonl
+  unexp: /dataset/unexp_dataset.jsonl
+  unexp_train: /dataset/unexp_train.jsonl
+  unexp_test: /dataset/unexp_test.jsonl
+  cf_pos: /dataset/counterfact_pos.jsonl
+  cf_pos_train: /dataset/cf_pos_train.jsonl
+  cf_pos_test: /dataset/cf_pos_test.jsonl
+  cf_neut: /dataset/counterfact_neut.jsonl
+  cf_neut_train: /dataset/cf_neut_train.jsonl
+  cf_neut_test: /dataset/cf_neut_test.jsonl
+  relabel: /dataset/relabel_dataset.jsonl
+  relabel_train: /dataset/relabel_train.jsonl
+  relabel_test: /dataset/relabel_test.jsonl
+  relabel_aug_train: /dataset/relabel_aug_train.jsonl
+  relabel_aug_test: /dataset/relabel_aug_test.jsonl
+  man_label_csv: /dataset/relabel.csv
+  unexp_csv: /dataset/text.csv
+  infer_csv: /dataset/inferred.csv

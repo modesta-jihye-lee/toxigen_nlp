@@ -1,0 +1,16 @@
+do_eval: True
+evaluation_strategy: epoch
+output_dir: trainer_out
+logging_dir: trainer_out
+logging_strategy: epoch
+save_strategy: epoch
+num_train_epochs: 10
+learning_rate: 2e-6
+per_device_train_batch_size: 16
+per_device_eval_batch_size: 16
+load_best_model_at_end: True
+metric_for_best_model: recall
+
+# added
+seed: 42
+data_seed: 42

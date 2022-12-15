@@ -1,0 +1,6 @@
+device: 0
+
+defaults:
+  - preprocess: preprocess
+  - train: train
+  - eval: eval
