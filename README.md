@@ -9,15 +9,15 @@ We aim to break these false correlations in multi-class sentiment classification
 
 ## Task
 
-Sentiment Analysis from SemEval-2017 Task 4: Sentiment Analysis in Twitter (Rosenthal et al. 2017) 
+Sentiment Analysis from _SemEval-2017 Task 4: Sentiment Analysis in Twitter_ (Rosenthal et al. 2017) 
 
 ## Dataset
 
-ToxiGen from ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection (Hartvigsen et al. 2022)
+ToxiGen from _ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection_ (Hartvigsen et al. 2022)
 
 ## Baseline Model
 
-TimeLM from TimeLMs: Diachronic Language Models from Twitter (Loureiro et al. 2022)
+TimeLM from _TimeLMs: Diachronic Language Models from Twitter_ (Loureiro et al. 2022)
 
 ## Fine-tuned Model
 
